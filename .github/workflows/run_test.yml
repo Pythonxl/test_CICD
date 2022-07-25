@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
 
-jobs:   
+jobs:  
   my_build_test:
      runs-on: ubuntu-latest
      steps:
